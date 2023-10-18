@@ -1,4 +1,14 @@
 ### Hi there 👋
+I am a Graduate  Fellow at Busitema University as well as a graduate Student at Busitema University perusing a Masters Degree in Computer Forensics currently in the final year carrying out my research in the field of Steganography and Cryptography. I graduated with a Bachelor's Degree in Computer Science  and I have acquired numerous skills in the field of computing.
+I have also participated in various Bootcamps like the Busitema Artificial Intelligence and Interdisciplinary Research Group, Pycon Event 2023 and Spectrum Management at AFRALTI.  I am a member of IEEE and my number is 990739.
+
+I have taken part in research projects for example: River engage: Insights on plastic debris polluting the Aturukuku River in Uganda, the Ayung River in Indonesia, and the Connecticut River in the United States, where I collaborated with the researchers (DOI 10.3389/fenvs.2022.1081208).
+- 🔭 I’m currently working on a mobile App that uses enhanced Text steganography techniqies to hide data.
+- 🌱 I’m currently learning a Certificate in Artificial Intelligence and Machine Learning at Refactory. I am also studying a six month course online at COursera called the Google Cybersecurity Certificate.
+- 👯 I’m looking to collaborate on  research projects in AI , ML and Cybersecurity
+- 📫 How to reach me: mdiana.sci@busitema.ac.ug
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love Adventure, vacations and Sci-Fi
 
 <!--
 **Diana11-Michelle/Diana11-Michelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
